@@ -41,4 +41,10 @@
 .first-list-response, .second-list-response{
     font-family: "Roboto", sans-serif; 
     font-size: medium;
+
+}
+
+.lead{
+    font-family: "Edu NSW ACT Cursive", cursive;
+    color: #0BA6DF;
 }
