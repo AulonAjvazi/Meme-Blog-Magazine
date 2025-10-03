@@ -7,6 +7,10 @@ This project is a simple hobby Meme & Blog Magazine website and it is made for b
 - CSS3
 - Bootstrap
 
+- ## Project
+
+[https://aulonajvazi.github.io/Meme-Blog-Magazine/](https://aulonajvazi.github.io/Meme-Blog-Magazine/)
+
 ![Meme & Blog Magazine Logo](imgs/aulon.logo.webp)
 ## Authors
 
