@@ -31,4 +31,10 @@
 
 .card-body{
    font-family: "Roboto", sans-serif; 
+
+}
+
+.lead{
+    font-family: "Edu NSW ACT Cursive", cursive;
+    color: #0BA6DF;
 }
